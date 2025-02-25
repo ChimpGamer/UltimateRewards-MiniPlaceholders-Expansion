@@ -1,5 +1,5 @@
 name: UltimateRewards-MiniPlaceholders-Expansion
-version: '1.0.0-SNAPSHOT'
+version: ${version}
 main: nl.chimpgamer.ultimaterewards.miniplaceholders.expansion.UltimateRewardsMiniPlaceholdersExpansion
 api-version: '1.19'
 authors: [ ChimpGamer ]
