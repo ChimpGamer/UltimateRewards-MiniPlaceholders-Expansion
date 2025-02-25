@@ -1,6 +1,13 @@
 name: UltimateRewards-MiniPlaceholders-Expansion
 version: '1.0.0-SNAPSHOT'
-main: nl.chimpgamer.ultimateRewardsMiniPlaceholdersExpansion.UltimateRewardsMiniPlaceholdersExpansion
-api-version: '1.21'
+main: nl.chimpgamer.ultimaterewards.miniplaceholders.expansion.UltimateRewardsMiniPlaceholdersExpansion
+api-version: '1.19'
 authors: [ ChimpGamer ]
 description: UltimateRewards Expansion for MiniPlaceholders
+
+depend:
+  - MiniPlaceholders
+  - UltimateRewards
+
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:2.1.10
