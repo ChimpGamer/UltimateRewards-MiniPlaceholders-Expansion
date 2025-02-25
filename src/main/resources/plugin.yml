@@ -1,0 +1,6 @@
+name: UltimateRewards-MiniPlaceholders-Expansion
+version: '1.0.0-SNAPSHOT'
+main: nl.chimpgamer.ultimateRewardsMiniPlaceholdersExpansion.UltimateRewardsMiniPlaceholdersExpansion
+api-version: '1.21'
+authors: [ ChimpGamer ]
+description: UltimateRewards Expansion for MiniPlaceholders
